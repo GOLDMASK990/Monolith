@@ -20,6 +20,7 @@
   - ValyrianStandardTranslator
   - ChittinTranslator
   - GaryTranslator # Mono
+  - NovaCygniTranslator # Mono
   # - SiikMaasTranslator
   # - MarishTranslator
 
@@ -38,5 +39,6 @@
   - ValyrianStandardTranslatorImplanter
   - ChittinTranslatorImplanter
   - GaryTranslatorImplanter # Mono
+  - NovaCygniTranslatorImplanter # Mono
 #  - SiikMaasTranslatorImplanter
 #  - MarishTranslatorImplanter

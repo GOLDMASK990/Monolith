@@ -102,7 +102,7 @@
   - MercenaryClothingBackpackDuffelTacticalDuffelCoyoteBrown
   - MercenaryClothingBackpackDuffelTacticalDuffelWhite
 
-- type: loadoutGroup
+- type: loadoutGroup # ONLY TO BE USED AS A SUBGROUP FOR _NF MERCENARY GROUPS
   id: MercenaryBalaclava
   name: loadout-group-contractor-balaclava
   minLimit: 0
@@ -119,3 +119,32 @@
   - MercenaryClothingBalaclavaSkiMaskTan
   - MercenaryClothingBalaclavaSkiMaskRangerGreen
   - MercenaryClothingBalaclavaSkiMaskCoyoteBrown
+
+- type: loadoutGroup
+  id: MonoUSSPJumpsuit
+  name: loadout-group-mono-ussp-jumpsuit
+  loadouts:
+  - USSPClothingJumpsuit
+
+- type: loadoutGroup
+  id: MonoUSSPHead
+  name: loadout-group-mono-ussp-head
+  loadouts:
+  - USSPOfficerCap
+  - USSPCommissarCap
+
+- type: loadoutGroup
+  id: MonoUSSPOuterClothing
+  name: loadout-group-mono-ussp-outerclothing
+  loadouts:
+  - USSPClothingL10
+  - USSPClothingL10A
+  - USSPClothingCoat
+
+- type: loadoutGroup
+  id: MonoUSSPBackpack
+  name: loadout-group-mono-ussp-backpack
+  loadouts:
+  - USSPBackpack
+  - USSPDuffel
+  - USSPSatchel

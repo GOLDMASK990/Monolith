@@ -84,3 +84,20 @@
   equipment:
     outerClothing: ClothingOuterHardsuitMercenaryWarlord
 
+- type: loadout
+  id: USSPClothingL10A
+  price: 20000
+  equipment:
+   outerClothing: ClothingOuterHardsuitUsspL10A
+
+- type: loadout
+  id: USSPClothingL10
+  price: 10000
+  equipment:
+   outerClothing: ClothingOuterHardsuitUsspL10
+
+- type: loadout
+  id: USSPClothingCoat
+  price: 0
+  equipment:
+   outerClothing: ClothingOuterCoatUSSP

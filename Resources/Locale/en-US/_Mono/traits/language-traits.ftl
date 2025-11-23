@@ -6,3 +6,6 @@ trait-language-nekomimetic-desc = To the casual observer, this language is an in
 
 trait-language-gary-name = Gary
 trait-language-gary-desc = Haha, Gary!
+
+trait-language-NovaCygni-name = Nova Cygni
+trait-language-NovaCygni-desc = The state language of the USSP, it originally formed as a hybrid of Russian and Mandarin Chinese. Its use has spread beyond USSP borders through Settlers and Members of the Paycheck Bratva.
