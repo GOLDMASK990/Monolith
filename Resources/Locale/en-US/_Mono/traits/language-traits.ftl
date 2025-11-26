@@ -8,4 +8,4 @@ trait-language-gary-name = Gary
 trait-language-gary-desc = Haha, Gary!
 
 trait-language-NovaCygni-name = Nova Cygni
-trait-language-NovaCygni-desc = The state language of the USSP, it originally formed as a hybrid of Russian and Mandarin Chinese. Its use has spread beyond USSP borders through Settlers and Members of the Paycheck Bratva.
+trait-language-NovaCygni-desc = The state language of the USSP, To most it sounds similar to Sol Common but more rough. Its use has spread through USSP Settlers and Members of the Paycheck Bratva.
