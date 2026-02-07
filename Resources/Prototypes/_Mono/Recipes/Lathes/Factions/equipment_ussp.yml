@@ -62,3 +62,19 @@
     Durathread: 3000
     Silver: 5000
     Plastic: 2500
+
+  
+- type: latheRecipe
+  parent: BaseJumpsuitRecipe
+  id: ClothingUniformUSSP
+  result: ClothingUniformUSSP
+
+- type: latheRecipe
+  parent: ClothingHeadHelmetBasic
+  id: ClothingHeadHelmetHeavyUSSP
+  result: ClothingHeadHelmetHeavyUSSP
+
+- type: latheRecipe
+  parent: BaseCheapElectronicsRecipe
+  id: ClothingHeadsetUSSP
+  result: ClothingHeadsetUSSP

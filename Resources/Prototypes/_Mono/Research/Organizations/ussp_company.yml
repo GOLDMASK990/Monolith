@@ -1,0 +1,102 @@
+- type: technology
+  id: UsspExplosives
+  name: research-technology-ussp-explosives
+  entityIcon: GrenadeShrapnel
+  discipline: Arsenal
+  tier: 2
+  cost: 30000
+  recipeUnlocks:
+  - SeismicChargeUSSP
+  - TearGasGrenadeUSSP
+  - GrenadeShrapnelUSSP
+  - GrenadeIncendiaryUSSP
+  technologyPrerequisites:
+  - AdvancedParts
+  position: -4, -6
+
+- type: technology
+  id: UsspBasicWeapons
+  name: research-technology-ussp-weapons-basic
+  entityIcon: WeaponRifleAK502
+  discipline: Arsenal
+  tier: 2
+  cost: 35000
+  recipeUnlocks:
+  - WeaponRifleSVSUSSP
+  - WeaponSniperMosinUSSP
+  - WeaponSubMachineGunAK220USSP
+  - WeaponRifleAK502USSP
+  - WeaponRevolverMatebaUSSP
+  technologyPrerequisites:
+  - AdvancedParts
+  - MercArmementSimple
+  position: -5, -6
+
+- type: technology
+  id: UsspAdvancedWeapons
+  name: research-technology-ussp-weapons-advanced
+  entityIcon: WeaponDP29
+  discipline: Arsenal
+  tier: 3
+  cost: 50000
+  recipeUnlocks:
+  - WeaponRifleAK410USSP
+  - WeaponDP29USSP
+  - MagazineDP29
+  - WeaponShotgunBigLeadyUSSP
+  - AmmoBox762x39mmSubsonic
+  - AmmoBox23x75mmFlashbang
+  technologyPrerequisites:
+  - SuperParts
+  - UsspBasicWeapons
+  position: -6, -6
+
+- type: technology
+  id: UsspBasicGear
+  name: research-technology-ussp-gear-basic
+  entityIcon: ClothingHeadHelmetHeavyUSSP
+  discipline: Arsenal
+  tier: 1
+  cost: 25000
+  recipeUnlocks:
+  - ClothingOuterHardsuitUsspL10USSP
+  - ClothingOuterHardsuitUsspL10AUSSP
+  - ClothingUniformUSSP
+  - ClothingHeadsetUSSP
+  - ClothingHeadHelmetHeavyUSSP
+  technologyPrerequisites:
+  - BasicParts
+  position: -4, -7
+
+- type: technology
+  id: UsspAdvancedGear
+  name: research-technology-ussp-gear-advanced
+  entityIcon: ClothingModsuitUSSPZastavnik
+  discipline: Arsenal
+  tier: 3
+  cost: 55000
+  recipeUnlocks:
+  - ClothingOuterHardsuitUsspL27USSP
+  - ClothingOuterHardsuitUsspM10USSP
+  - ClothingModsuitUSSPVaryagUSSP
+  - ClothingModsuitUSSPZastavnikUSSP
+  technologyPrerequisites:
+  - SuperParts
+  - UsspBasicGear
+  - HardsuitsArmoredAdvanced
+  position: -5, -7
+
+- type: technology
+  id: UsspLedokol
+  name: research-technology-ussp-ships-ledokol
+  entityIcon: ShipVoucherUSSPLedokol
+  discipline: Arsenal
+  tier: 3
+  cost: 100000
+  recipeUnlocks:
+  - LedokolVoucherUssp
+  - LedokolRamVoucherUssp
+  technologyPrerequisites:
+  - SuperParts
+  - ShuttleAdvancedComponents
+  position: -6, -7

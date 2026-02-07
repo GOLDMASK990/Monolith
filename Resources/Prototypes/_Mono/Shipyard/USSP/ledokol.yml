@@ -3,7 +3,7 @@
   parent: BaseVesselAntag
   name: BYP Ledokol
   description: A massive shuttle originally made for ramming through compact debris fields. Trades off fire-power for thrust-power.
-  limit: 1
+  limit: 5
   price: 425000
   purchasable: false # voucher only
   category: Large

@@ -10,7 +10,7 @@
   technologyPrerequisites:
   - RogueStealthsuit
   - UniversalMaterialResearchT3
-  position: 22, 11
+  position: 20, 11
 
 - type: technology
   id: RogueSaturn
@@ -25,7 +25,7 @@
   - RogueGoliath
   - UniversalMaterialResearchT3
   - RogueProwler
-  position: 22, 12
+  position: 20, 12
 
 - type: technology
   id: RogueGoliath
@@ -38,7 +38,7 @@
   - SaintieVoucherRogue
   technologyPrerequisites:
   - UniversalMaterialResearchT2
-  position: 22, 5
+  position: 20, 5
 
 - type: technology
   id: RogueJaws
@@ -52,7 +52,7 @@
   - NaniteApplicatorSyndicate
   technologyPrerequisites:
   - UniversalMaterialResearchT1
-  position: 20, -1
+  position: 18, -1
 
 - type: technology
   id: RogueHypospray
@@ -65,7 +65,7 @@
   - HyposprayRogue
   technologyPrerequisites:
   - UniversalMaterialResearchT1
-  position: 20, -2
+  position: 18, -2
 
 - type: technology
   id: RogueEmag
@@ -78,7 +78,7 @@
   - EmagRogue
   technologyPrerequisites:
   - UniversalMaterialResearchT2
-  position: 21, 4
+  position: 19, 4
 
 - type: technology
   id: RogueEmag2
@@ -91,7 +91,7 @@
   - AccessBreakerRogue
   technologyPrerequisites:
   - UniversalMaterialResearchT2
-  position: 21, 3
+  position: 19, 3
 
 - type: technology
   id: RogueThermals
@@ -104,7 +104,7 @@
   - ClothingEyesThermalVisionGoggles
   technologyPrerequisites:
   - UniversalMaterialResearchT1
-  position: 20, -3
+  position: 18, -3
 
 - type: technology
   id: PDVBasicBorgModule
@@ -117,7 +117,7 @@
   - BasicBorgCombatModulePDV
   technologyPrerequisites:
   - UniversalMaterialResearchT1
-  position: 20, -4
+  position: 18, -4
 
 - type: technology
   id: PDVAdvancedBorgModule
@@ -131,4 +131,4 @@
   technologyPrerequisites:
   - UniversalMaterialResearchT3
   - PDVBasicBorgModule
-  position: 23, 11
+  position: 21, 11

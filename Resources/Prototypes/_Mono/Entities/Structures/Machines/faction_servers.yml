@@ -128,10 +128,10 @@
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: TechnologyDatabase
     supportedDisciplines:
-    - Ussp
-    - UsspShipyard
-    - UsspEquipment
-    - UsspWeapons
+   # - Ussp
+   # - UsspShipyard
+   # - UsspEquipment
+   # - UsspWeapons
     - FactionUniversal
     - Industrial
     - Arsenal
@@ -159,10 +159,10 @@
     - RogueGear
     - RogueEquipment
     - RogueShipyard
-    - Ussp
-    - UsspShipyard
-    - UsspEquipment
-    - UsspWeapons
+   # - Ussp
+   # - UsspShipyard
+   # - UsspEquipment
+   # - UsspWeapons
     - FactionUniversal
     - MechaEngineering
 

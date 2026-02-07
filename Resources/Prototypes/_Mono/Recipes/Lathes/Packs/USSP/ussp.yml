@@ -18,6 +18,8 @@
   - TearGasGrenadeUSSP
   - GrenadeShrapnelUSSP
   - GrenadeIncendiaryUSSP
+  - ClothingUniformUSSP
+  - ClothingHeadsetUSSP
 
 - type: latheRecipePack
   id: MonoUSSPArmorDynamic
@@ -28,6 +30,7 @@
   - ClothingOuterHardsuitUsspM10USSP
   - ClothingModsuitUSSPVaryagUSSP
   - ClothingModsuitUSSPZastavnikUSSP
+  - ClothingHeadHelmetHeavyUSSP
 
 - type: latheRecipePack
   id: MonoUSSPVouchersDynamic
