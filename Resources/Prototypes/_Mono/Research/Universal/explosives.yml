@@ -10,10 +10,6 @@
   - PrintableC4
   - PrintableEmpGrenade
   - PrintableExplosiveGrenade
-  - SeismicChargeUSSP
-  - TearGasGrenadeUSSP
-  - GrenadeShrapnelUSSP
-  - GrenadeIncendiaryUSSP
   technologyPrerequisites:
   - UniversalPlastitaniumCore
   position: 7, 6
